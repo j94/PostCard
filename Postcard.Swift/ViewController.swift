@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    // adding comment to tesh commits
     @IBAction func sendMailButtonPressed(sender: UIButton) {
         // unhides label when button is pressed
         messageLabel.hidden = false
